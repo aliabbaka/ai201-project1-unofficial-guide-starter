@@ -65,7 +65,7 @@ Embedding model: all-MiniLM-L6-v2
 **Top-k:**
 4
 **Production tradeoff reflection:**
-
+there is no enough reviews, reviews are not similar in shape, resulted in higher distance and less wanted results. More data the better. The cleaner the data the less distance. 
 ---
 
 ## Evaluation Plan

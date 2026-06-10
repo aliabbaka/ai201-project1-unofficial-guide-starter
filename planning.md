@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-I have taken Cleveland Dinning hall review of my school Whitman College, the reviews are important because each was experincing different food reviews, and by knowing those information we can make search engine easier of the students opinion to this side of campus.
+I have taken Cleveland Commons Dining Hall reviews from my school, Cleveland State University. The reviews are important because each student experienced the food differently, and by collecting that information we can make it easier to search through students' opinions about this side of campus.
 
 ---
 

@@ -18,7 +18,7 @@ with gr.Blocks(theme=gr.themes.Soft(), title="CSU Dining Guide") as demo:
                 🍽️ CSU Unofficial Dining Guide
             </h1>
             <p style="color:#6b7280;">
-                Ask anything about Cleveland State dining — answers from real student reviews.
+                Ask anything about Cleveland dining — answers from real student reviews.
             </p>
         </div>
     """)
